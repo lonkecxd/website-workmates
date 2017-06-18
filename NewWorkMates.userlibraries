@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="org.thymeleaf:thymeleaf:Release">
+    <archive path="C:/Users/jasonchen/.m2/repository/org/thymeleaf/thymeleaf/3.0.6.RELEASE/thymeleaf-3.0.6.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/ognl/ognl/3.1.12/ognl-3.1.12.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/attoparser/attoparser/2.0.4.RELEASE/attoparser-2.0.4.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/thymeleaf/thymeleaf/3.0.6.RELEASE/thymeleaf-3.0.6.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/ognl/ognl/3.1.12/ognl-3.1.12.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/attoparser/attoparser/2.0.4.RELEASE/attoparser-2.0.4.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/thymeleaf/thymeleaf/3.0.6.RELEASE/thymeleaf-3.0.6.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/ognl/ognl/3.1.12/ognl-3.1.12.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/attoparser/attoparser/2.0.4.RELEASE/attoparser-2.0.4.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/thymeleaf/thymeleaf/3.0.6.RELEASE/thymeleaf-3.0.6.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/ognl/ognl/3.1.12/ognl-3.1.12.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/attoparser/attoparser/2.0.4.RELEASE/attoparser-2.0.4.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/thymeleaf/thymeleaf/3.0.6.RELEASE/thymeleaf-3.0.6.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/ognl/ognl/3.1.12/ognl-3.1.12.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/attoparser/attoparser/2.0.4.RELEASE/attoparser-2.0.4.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6.jar" />
+  </library>
+  <library name="org.thymeleaf:thymeleaf-spring4:Release">
+    <archive path="C:/Users/jasonchen/.m2/repository/org/thymeleaf/thymeleaf-spring4/3.0.6.RELEASE/thymeleaf-spring4-3.0.6.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/thymeleaf/thymeleaf/3.0.6.RELEASE/thymeleaf-3.0.6.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/attoparser/attoparser/2.0.4.RELEASE/attoparser-2.0.4.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/thymeleaf/thymeleaf-spring4/3.0.6.RELEASE/thymeleaf-spring4-3.0.6.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/thymeleaf/thymeleaf/3.0.6.RELEASE/thymeleaf-3.0.6.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/attoparser/attoparser/2.0.4.RELEASE/attoparser-2.0.4.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/thymeleaf/thymeleaf-spring4/3.0.6.RELEASE/thymeleaf-spring4-3.0.6.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/thymeleaf/thymeleaf/3.0.6.RELEASE/thymeleaf-3.0.6.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/attoparser/attoparser/2.0.4.RELEASE/attoparser-2.0.4.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/thymeleaf/thymeleaf-spring4/3.0.6.RELEASE/thymeleaf-spring4-3.0.6.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/thymeleaf/thymeleaf/3.0.6.RELEASE/thymeleaf-3.0.6.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/attoparser/attoparser/2.0.4.RELEASE/attoparser-2.0.4.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/thymeleaf/thymeleaf-spring4/3.0.6.RELEASE/thymeleaf-spring4-3.0.6.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/thymeleaf/thymeleaf/3.0.6.RELEASE/thymeleaf-3.0.6.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/attoparser/attoparser/2.0.4.RELEASE/attoparser-2.0.4.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.jar" />
+    <archive path="C:/Users/jasonchen/.m2/repository/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6.jar" />
+  </library>
+  <library name="groovy-2.4.8">
+    <archive path="A:/文档库2/文档6/6Java课程/阅后即焚社区/groovy-2.4.8.jar" />
+  </library>
+  <library name="groovy-test-2.4.8">
+    <archive path="A:/文档库2/文档6/6Java课程/阅后即焚社区/groovy-test-2.4.8.jar" />
+  </library>
+  <library name="hibernate-core">
+    <archive path="A:/CODE/Structs+Hibernate项目/mylib/hibernate-core/antlr-2.7.7.jar" />
+    <archive path="A:/CODE/Structs+Hibernate项目/mylib/hibernate-core/dom4j-1.6.1.jar" />
+    <archive path="A:/CODE/Structs+Hibernate项目/mylib/hibernate-core/javassist-3.15.0-GA.jar" />
+    <archive path="A:/CODE/Structs+Hibernate项目/mylib/hibernate-core/jboss-logging-3.1.0.GA.jar" />
+    <archive path="A:/CODE/Structs+Hibernate项目/mylib/hibernate-core/hibernate-core-4.2.4.Final.jar" />
+    <archive path="A:/CODE/Structs+Hibernate项目/mylib/hibernate-core/hibernate-jpa-2.0-api-1.0.1.Final.jar" />
+    <archive path="A:/CODE/Structs+Hibernate项目/mylib/hibernate-core/hibernate-commons-annotations-4.0.2.Final.jar" />
+    <archive path="A:/CODE/Structs+Hibernate项目/mylib/hibernate-core/jboss-transaction-api_1.1_spec-1.0.1.Final.jar" />
+  </library>
+  <library name="junit-core">
+    <archive path="A:/CODE/Structs+Hibernate项目/mylib/junit-core/junit-4.10.jar" />
+  </library>
+  <library name="lombok">
+    <archive path="A:/文档库2/文档6/6Java课程/lombok.jar" />
+  </library>
+  <library name="mysql-core">
+    <archive path="A:/CODE/Structs+Hibernate项目/mylib/mysql-core/mysql-connector-java-5.1.7-bin.jar" />
+  </library>
+  <library name="structs-core">
+    <archive path="A:/CODE/Structs+Hibernate项目/mylib/structs-core/asm-3.3.jar" />
+    <archive path="A:/CODE/Structs+Hibernate项目/mylib/structs-core/ognl-3.0.5.jar" />
+    <archive path="A:/CODE/Structs+Hibernate项目/mylib/structs-core/asm-tree-3.3.jar" />
+    <archive path="A:/CODE/Structs+Hibernate项目/mylib/structs-core/asm-commons-3.3.jar" />
+    <archive path="A:/CODE/Structs+Hibernate项目/mylib/structs-core/commons-io-2.0.1.jar" />
+    <archive path="A:/CODE/Structs+Hibernate项目/mylib/structs-core/xwork-core-2.3.4.jar" />
+    <archive path="A:/CODE/Structs+Hibernate项目/mylib/structs-core/commons-lang3-3.1.jar" />
+    <archive path="A:/CODE/Structs+Hibernate项目/mylib/structs-core/freemarker-2.3.19.jar" />
+    <archive path="A:/CODE/Structs+Hibernate项目/mylib/structs-core/struts2-core-2.3.4.jar" />
+    <archive path="A:/CODE/Structs+Hibernate项目/mylib/structs-core/javassist-3.11.0.GA.jar" />
+    <archive path="A:/CODE/Structs+Hibernate项目/mylib/structs-core/commons-fileupload-1.2.2.jar" />
+  </library>
+</eclipse-userlibraries>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/1.7"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/NewWorkMates/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hibernate-core"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/structs-core"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/org.thymeleaf:thymeleaf:Release"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/org.thymeleaf:thymeleaf-spring4:Release"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Tomcat 8.5.9"/>
+	<classpathentry kind="output" path="out/production/NewWorkMates"/>
+</classpath>

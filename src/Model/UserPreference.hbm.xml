@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="Model.UserPreference" table="User_Preference" schema="dbo" catalog="WorkMates">
+        <id name="id" column="id"/>
+        <property name="age" column="age"/>
+        <property name="sex" column="sex"/>
+        <property name="studyAreaId" column="studyAreaId"/>
+        <property name="university" column="university"/>
+        <property name="cityId" column="cityId"/>
+        <property name="photoSrc" column="photoSRC"/>
+    </class>
+</hibernate-mapping>

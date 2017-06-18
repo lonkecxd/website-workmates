@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="Model.Step" table="Step" schema="dbo" catalog="WorkMates">
+        <id name="id" column="id"/>
+        <property name="pId" column="pId"/>
+        <property name="stepTitle" column="stepTitle"/>
+        <property name="stepContent" column="stepContent"/>
+        <property name="deadlineHours" column="deadlineHours"/>
+    </class>
+</hibernate-mapping>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+        "http://struts.apache.org/dtds/struts-2.3.dtd">
+<struts>
+    <package name="defalut" extends="struts-default" >
+
+        <action name="LoginAction" class="Action.LoginAction">
+            <result name="success" type="redirect">/GDC/personal.jsp</result>
+            <result name="error">error.jsp</result>
+        </action>
+
+        <action name="RegisterAction" class="Action.RegisterAction">
+            <result name="success">/GDC/personal.jsp</result>
+            <result name="error">error.jsp</result>
+        </action>
+        
+       <action name="base_info" class="Action.BaseInfo">
+            <result name="success">WXH/base_info.jsp</result>
+            <result name="error">error.jsp</result>
+        </action>
+        
+        <action name="role_allocation" class="Action.RoleAllocation">
+        	<result name="success">WXH/roles_allocation.jsp</result>
+            <result name="error">error.jsp</result>
+        </action>
+		
+		<action name="check_schedule" class="Action.CheckSchedule">
+        	<result name="success">WXH/check_schedule.jsp</result>
+            <result name="error">error.jsp</result>
+		</action>
+		
+		<action name="submit_schedule" class="Action.SubmitSchedule">
+        	<result name="success">WXH/submit_schedule.jsp</result>
+            <result name="error">error.jsp</result>		
+		</action>
+		
+
+		<action name="test" class="Action.Test">
+			<result name="success" type="redirectAction">submit_schedule.action?programId=${projectId}</result>
+			<result name="error">error.jsp</result>	
+		</action>
+
+        <action name="projctAction.*" class="Action.ProjectAction" method="{1}">
+            <result name="success">program.jsp</result>
+            <result name="error" >error.jsp</result>
+        </action>
+
+        <action name="upload" class="Action.uploadAction">
+            <result name="success">WXH/check_schedule.jsp</result>
+            <result name="error">WXH/check_schedule.jsp</result>
+        </action>
+
+        <action name="addfriendAction" class="Action.addfriendAction">
+            <result name="success" >/chatwithfriends.jsp</result>
+            <result name="error" >/chatwithfriends.jsp</result>
+        </action>
+
+        <action name="deletefriendAction" class="Action.deletefriendAction">
+            <result name="success" >/chatwithfriends.jsp</result>
+            <result name="error">/chatwithfriends.jsp</result>
+        </action>
+
+        <action name="sendmessageAction" class="Action.sendmessageAction">
+            <result name="success">/chatroom.jsp</result>
+            <result name="error">/chatroom.jsp</result>
+        </action>
+
+        <action name="chatAction" class="Action.ChatRoomAction">
+            <result name="success">/chatroom.jsp</result>
+            <result name="error">/chatroom.jsp</result>
+        </action>
+    </package>
+</struts>

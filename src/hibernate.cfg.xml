@@ -1,0 +1,37 @@
+<!--<?xml version='1.0' encoding='utf-8'?>-->
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="connection.url">jdbc:sqlserver://localhost:1433;databaseName=workmates</property>
+        <property name="dialect">org.hibernate.dialect.SQLServerDialect</property>
+        <property name="connection.driver_class">com.microsoft.sqlserver.jdbc.SQLServerDriver</property>
+        <property name="connection.username">sa</property>
+        <property name="connection.password">json1996</property>
+        <mapping class="Model.Area"/>
+        <mapping resource="Model/Area.hbm.xml"/>
+        <mapping class="Model.City"/>
+        <mapping resource="Model/City.hbm.xml"/>
+        <mapping class="Model.FriendsMessage"/>
+        <mapping resource="Model/FriendsMessage.hbm.xml"/>
+        <mapping class="Model.FriendsRelationship"/>
+        <mapping resource="Model/FriendsRelationship.hbm.xml"/>
+        <mapping class="Model.Project"/>
+        <mapping resource="Model/Project.hbm.xml"/>
+        <mapping resource="Model/ProjectContent.hbm.xml"/>
+        <mapping class="Model.ProjectContent"/>
+        <mapping class="Model.Role"/>
+        <mapping resource="Model/Role.hbm.xml"/>
+        <mapping class="Model.Step"/>
+        <mapping resource="Model/Step.hbm.xml"/>
+        <mapping class="Model.UPParticipate"/>
+        <mapping resource="Model/UPParticipate.hbm.xml"/>
+        <mapping class="Model.USRoles"/>
+        <mapping resource="Model/USRoles.hbm.xml"/>
+        <mapping class="Model.UserPreference"/>
+        <mapping resource="Model/UserPreference.hbm.xml"/>
+        <mapping class="Model.UserInfo"/>
+        <mapping resource="Model/UserInfo.hbm.xml"/>
+    </session-factory>
+</hibernate-configuration>

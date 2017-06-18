@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="1.7" jdk_type="JavaSDK">
+	<output-test url="file://$MODULE_DIR$/out/test/NewWorkMates"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="Tomcat 8.5.9" scope="PROVIDED"/>
+	<levels>
+		<level name="org.thymeleaf:thymeleaf:Release" value="project"/>
+		<level name="org.thymeleaf:thymeleaf-spring4:Release" value="project"/>
+		<level name="Tomcat 8.5.9" value="application_server_libraries"/>
+	</levels>
+</component>
