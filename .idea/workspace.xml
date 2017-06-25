@@ -2,9 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="491e4436-e49a-4915-8693-54f4c8d32247" name="Default" comment="增加 spring 功能">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Spring_4_3_9_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/aopalliance-1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/commons-logging-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-aop-4.3.9.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-aspects-4.3.9.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-beans-4.3.9.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-context-4.3.9.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-context-support-4.3.9.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-core-4.3.9.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-expression-4.3.9.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-instrument-4.3.9.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-instrument-tomcat-4.3.9.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-jdbc-4.3.9.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-jms-4.3.9.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-messaging-4.3.9.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-orm-4.3.9.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-oxm-4.3.9.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-test-4.3.9.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spring-tx-4.3.9.RELEASE.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NewWorkMates.iml" afterPath="$PROJECT_DIR$/NewWorkMates.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -600,8 +616,16 @@
       <workItem from="1498021418406" duration="2028000" />
       <workItem from="1498135503353" duration="80000" />
       <workItem from="1498216016618" duration="394000" />
-      <workItem from="1498381896482" duration="1817000" />
+      <workItem from="1498381896482" duration="1962000" />
     </task>
+    <task id="LOCAL-00001" summary="增加 spring 功能">
+      <created>1498384247692</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1498384247692</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -613,11 +637,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123447000" />
+    <option name="totallyTimeSpent" value="123592000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -638,7 +661,7 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38401255" sideWeight="0.49682036" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32923076" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.49682036" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21383148" sideWeight="0.34115806" order="5" side_tool="true" content_ui="tabs" />
@@ -660,6 +683,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="增加 spring 功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加 spring 功能" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
